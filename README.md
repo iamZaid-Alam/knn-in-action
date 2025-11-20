@@ -1,6 +1,4 @@
-# 🌟 **KNN in Action — A Premium End-to-End ML Project (Iris Dataset)**
-
-### *A world-class, beautifully engineered KNN workflow loved by ML enthusiasts across the globe*
+# 🌟 **KNN in Action — Iris Dataset**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-KNN-yellow?style=for-the-badge"/>
@@ -8,8 +6,10 @@
   <img src="https://img.shields.io/badge/Framework-scikit--learn-brightgreen?style=for-the-badge"/>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*U6R1Tl7tLHqmxP-Z1NiYwg.png" width="600"/>
+  <img src="iris.png" width="600"/>
 </p>
 
 
